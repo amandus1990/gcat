@@ -17,7 +17,7 @@ from email.MIMEText import MIMEText
 from email import Encoders
 
 #######################################
-gmail_user = 'gcat.test.mofo@gmail.com'
+gmail_user = 'DavidLian314@gmail.com'
 gmail_pwd = 'prettyflypassword'
 server = "smtp.gmail.com"
 server_port = 587
